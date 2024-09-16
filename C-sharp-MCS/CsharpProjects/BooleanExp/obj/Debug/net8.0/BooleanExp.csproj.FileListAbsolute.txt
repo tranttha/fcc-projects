@@ -1,0 +1,15 @@
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/bin/Debug/net8.0/BooleanExp
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/bin/Debug/net8.0/BooleanExp.deps.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/bin/Debug/net8.0/BooleanExp.runtimeconfig.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/bin/Debug/net8.0/BooleanExp.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/bin/Debug/net8.0/BooleanExp.pdb
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/obj/Debug/net8.0/BooleanExp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/obj/Debug/net8.0/BooleanExp.AssemblyInfoInputs.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/obj/Debug/net8.0/BooleanExp.AssemblyInfo.cs
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/obj/Debug/net8.0/BooleanExp.csproj.CoreCompileInputs.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/obj/Debug/net8.0/BooleanExp.sourcelink.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/obj/Debug/net8.0/BooleanExp.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/obj/Debug/net8.0/refint/BooleanExp.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/obj/Debug/net8.0/BooleanExp.pdb
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/obj/Debug/net8.0/BooleanExp.genruntimeconfig.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/BooleanExp/obj/Debug/net8.0/ref/BooleanExp.dll
