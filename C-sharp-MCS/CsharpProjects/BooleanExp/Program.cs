@@ -344,6 +344,7 @@ do
 Console.WriteLine($"Your input value ({roleName}) has been accepted.");
 readResult = Console.ReadLine();
 */
+/*
 string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
 int stringsCount = myStrings.Length;
 
@@ -379,3 +380,5 @@ for (int i = 0; i < stringsCount; i++)
     mySentence = myString.Trim();
     Console.WriteLine(mySentence);
 }
+*/
+// the ourAnimals array will store the following: 
