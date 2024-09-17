@@ -321,7 +321,7 @@ string message = "This--is--ex-amp-le--da-ta";
 message = message.Replace("--", " ");
 message = message.Replace("-", "");
 Console.WriteLine(message);
-*/
+*//*
 const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
 
 string quantity = "";
@@ -333,3 +333,4 @@ output += input.Substring(input.IndexOf("<div>") + 5,
 
 Console.WriteLine(quantity);
 Console.WriteLine(output.Replace("&trade", "&reg"));
+*/
