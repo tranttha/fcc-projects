@@ -1,0 +1,15 @@
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/bin/Debug/net8.0/VariableData
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/bin/Debug/net8.0/VariableData.deps.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/bin/Debug/net8.0/VariableData.runtimeconfig.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/bin/Debug/net8.0/VariableData.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/bin/Debug/net8.0/VariableData.pdb
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/obj/Debug/net8.0/VariableData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/obj/Debug/net8.0/VariableData.AssemblyInfoInputs.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/obj/Debug/net8.0/VariableData.AssemblyInfo.cs
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/obj/Debug/net8.0/VariableData.csproj.CoreCompileInputs.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/obj/Debug/net8.0/VariableData.sourcelink.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/obj/Debug/net8.0/VariableData.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/obj/Debug/net8.0/refint/VariableData.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/obj/Debug/net8.0/VariableData.pdb
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/obj/Debug/net8.0/VariableData.genruntimeconfig.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/VariableData/obj/Debug/net8.0/ref/VariableData.dll
