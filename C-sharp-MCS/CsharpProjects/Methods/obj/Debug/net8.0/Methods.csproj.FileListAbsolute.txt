@@ -1,0 +1,15 @@
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/bin/Debug/net8.0/Methods
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/bin/Debug/net8.0/Methods.deps.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/bin/Debug/net8.0/Methods.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/bin/Debug/net8.0/Methods.pdb
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/obj/Debug/net8.0/Methods.sourcelink.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/obj/Debug/net8.0/Methods.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/obj/Debug/net8.0/refint/Methods.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/obj/Debug/net8.0/Methods.pdb
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Methods/obj/Debug/net8.0/ref/Methods.dll

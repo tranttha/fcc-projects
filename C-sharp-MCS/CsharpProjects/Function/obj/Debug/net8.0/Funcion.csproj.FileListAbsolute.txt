@@ -1,0 +1,15 @@
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/bin/Debug/net8.0/Funcion
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/bin/Debug/net8.0/Funcion.deps.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/bin/Debug/net8.0/Funcion.runtimeconfig.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/bin/Debug/net8.0/Funcion.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/bin/Debug/net8.0/Funcion.pdb
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/obj/Debug/net8.0/Funcion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/obj/Debug/net8.0/Funcion.AssemblyInfoInputs.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/obj/Debug/net8.0/Funcion.AssemblyInfo.cs
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/obj/Debug/net8.0/Funcion.csproj.CoreCompileInputs.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/obj/Debug/net8.0/Funcion.sourcelink.json
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/obj/Debug/net8.0/Funcion.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/obj/Debug/net8.0/refint/Funcion.dll
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/obj/Debug/net8.0/Funcion.pdb
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/obj/Debug/net8.0/Funcion.genruntimeconfig.cache
+/Users/hoangtran/gh-repo/fcc-projects/C-sharp-MCS/CsharpProjects/Function/obj/Debug/net8.0/ref/Funcion.dll
